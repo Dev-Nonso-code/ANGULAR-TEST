@@ -1,0 +1,11 @@
+#dev{
+    background-color: red;
+    padding: 9px;
+    width: 60px;
+    border-radius: 12px;
+
+  }
+  nav{
+    display: flex;
+  }
+  
