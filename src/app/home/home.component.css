@@ -1,11 +1,19 @@
-#dev{
-    background-color: red;
-    padding: 9px;
-    width: 60px;
-    border-radius: 12px;
-
+#devs{
+  background-color: red;
+  padding: 10px;
+  border-radius: 7px;
+  margin: auto;
   }
   nav{
     display: flex;
   }
+  #ok{
+    width: 40em;
+    border: 4px;
+    border-radius: 10px;
+    height: 4em;
+    text-align: center;
+    margin: auto;
+  }
+  
   
